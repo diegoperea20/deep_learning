@@ -1,0 +1,1 @@
+En el siguiente enlace (https://drive.google.com/drive/folders/1KBHSrU_S-A29HxoRhAO9Az-IL3rkP8Uu?usp=sharing), se anexan los codigos y carpetas, con los archivos TFRecord, Label Map, checkpoints y Modelo entrenado. Se realiza de esta forma debido a que los arhivos tiene un peso de 1GB, no permitidos por el campus.
