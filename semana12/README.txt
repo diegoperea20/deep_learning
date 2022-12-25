@@ -1,1 +1,3 @@
-En el siguiente enlace (https://drive.google.com/drive/folders/1KBHSrU_S-A29HxoRhAO9Az-IL3rkP8Uu?usp=sharing), se anexan los codigos y carpetas, con los archivos TFRecord, Label Map, checkpoints y Modelo entrenado. Se realiza de esta forma debido a que los arhivos tiene un peso de 1GB, no permitidos por el campus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca515d4e7d79e90a0716db4cd8257fa2ceccf06260f591ecd2577a916501d177
+size 315
